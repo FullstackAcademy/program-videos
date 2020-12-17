@@ -24,6 +24,22 @@
     <a href='https://www.youtube.com/watch?v=3jlMFuzuoPY&feature=youtu.be' target='_blank'>Event Handling</a>
   </li>
     <li>
-    <a href='' target='_blank'></a>
+    <a href='https://www.youtube.com/watch?v=_zag2sF8814&feature=youtu.be' target='_blank'>Node and Asyncronous Code</a>
   </li>
+    <li>
+    <a href='https://youtu.be/Hv8UTKOVgcg' target='_blank'>Express Part One</a>
+  </li>
+      <li>
+    <a href='https://www.youtube.com/watch?v=dIeqjYXwLhU&feature=youtu.be' target='_blank'>Express Part Two</a>
+  </li>
+    <li>
+    <a href='https://www.youtube.com/watch?v=rMbPMihOliA&feature=youtu.be' target='_blank'>SQL Part One</a>
+  </li>
+    <li>
+    <a href='https://www.youtube.com/watch?v=gCIblrIR-II&feature=youtu.be' target='_blank'>SQL Part Two</a>
+  </li>
+    <li>
+    <a href='https://www.youtube.com/watch?v=cQXhw1u0Uu0&feature=youtu.be' target='_blank'>Schema Design</a>
+  </li>
+
 </ul>
