@@ -77,6 +77,10 @@
               <li>
   <a href='https://youtu.be/doTRQvNLXVQ'>Redux</a>
   </li>
+                <li>
+  <a href='https://youtu.be/tBApupNyFq0'>React-Redux</a>
+  </li>
+  
   
   
   
