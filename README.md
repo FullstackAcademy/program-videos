@@ -41,5 +41,25 @@
     <li>
     <a href='https://www.youtube.com/watch?v=cQXhw1u0Uu0&feature=youtu.be' target='_blank'>Schema Design</a>
   </li>
+    <li>
+    <a href='https://www.youtube.com/watch?v=txOicVb4PLE&feature=youtu.be' target='_blank'>Node / pg</a>
+  </li>
+    <li>
+    <a href='https://www.youtube.com/watch?v=L8urO3LUFjA&feature=youtu.be' target='_blank'>Express Router and REST</a>
+  </li>
+  <li>
+    <a href='https://www.youtube.com/watch?v=herEBLCWxoA&feature=youtu.be' target='_blank'>Sequelize - Models and Hooks</a>
+  </li>
+    <li>
+    <a href='https://www.youtube.com/watch?v=9mkDoUkzL3Q&feature=youtu.be' target='_blank'>Sequelize - Associations</a>
+  </li>
+  <li>
+  <a href='https://youtu.be/ZhkDuj5b28Y'>Sequelize - Self Referencing Associations</a>
+  </li>
+  <li>
+  <a href='https://www.youtube.com/watch?v=SoLv6V9sDME&feature=youtu.be'>Front End Modules - Webpack</a>
+  </li>
+
+  
 
 </ul>
