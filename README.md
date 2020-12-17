@@ -80,6 +80,13 @@
                 <li>
   <a href='https://youtu.be/tBApupNyFq0'>React-Redux</a>
   </li>
+                  <li>
+  <a href='https://youtu.be/bOhjfdblIKw'>Combine Reducers, ApplyMiddleware (Logging and Thunks)</a>
+  </li>
+  <li>
+  <a href='https://youtu.be/M91QyB351yM'>React Forms</a>
+  </li>
+  
   
   
   
