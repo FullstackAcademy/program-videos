@@ -1,9 +1,6 @@
 # program-videos
 
-<ul>
-  <li>
-    <a href='' target='_blank'></a>
-  </li>
+<ol>
   <li>
     <a href='https://www.youtube.com/watch?v=6y5iXTG1jkM' target='_blank'>Intro to Git</a>
   </li>
@@ -97,4 +94,4 @@
 
   
 
-</ul>
+</ol>
