@@ -59,6 +59,30 @@
   <li>
   <a href='https://www.youtube.com/watch?v=SoLv6V9sDME&feature=youtu.be'>Front End Modules - Webpack</a>
   </li>
+    <li>
+  <a href='https://youtu.be/xYD090y5A8o'>Single Page Applications</a>
+  </li>
+      <li>
+  <a href='https://youtu.be/-Q-JjSrz2QI'>React Intro</a>
+  </li>
+        <li>
+  <a href='https://youtu.be/-RM2KlB9Q2w'>React Lifecycle</a>
+  </li>
+          <li>
+  <a href='https://youtu.be/wy0ZOEpjxfU'>Full Stack Data Flow</a>
+  </li>
+            <li>
+  <a href='https://youtu.be/8-R6jrzntvQ'>Testing</a>
+  </li>
+              <li>
+  <a href='https://youtu.be/doTRQvNLXVQ'>Redux</a>
+  </li>
+  
+  
+  
+  
+  
+  
 
   
 
