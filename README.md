@@ -17,8 +17,11 @@
     <a href='https://www.youtube.com/watch?v=KNfkx_VMKSo&feature=youtu.be' target='_blank'>Practical Debugging</a>
   </li>
   
-    <li>
+   <li>
     <a href='https://www.youtube.com/watch?v=xAg1woWCVF4&feature=youtu.be' target='_blank'>The Document Object Model</a>
+  </li>
+  <li>
+    <a href='https://www.youtube.com/watch?v=3jlMFuzuoPY&feature=youtu.be' target='_blank'>Event Handling</a>
   </li>
     <li>
     <a href='' target='_blank'></a>
